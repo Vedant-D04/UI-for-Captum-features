@@ -37,6 +37,7 @@ Choose either **PyTorch** or **TensorFlow**. This determines how the app process
 
 
 ### **2️⃣ Upload Your Model**  
+⚠️Please Note that the model has only one class, otherwise it will have error while loading.
 - **For PyTorch:** Upload a `.pth` file containing your trained model.  
 - **For TensorFlow:** Upload a `.h5` file containing your trained model.  
 <img width="1677" alt="Screenshot 2025-02-21 at 5 18 22 PM" src="https://github.com/user-attachments/assets/3811908b-cd6a-4c62-8166-d6caef99a85a" />
